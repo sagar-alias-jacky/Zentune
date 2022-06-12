@@ -11,7 +11,7 @@
 [![forthebadge](release_and_resources/github/license-gpl3.svg)](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
 
 
-<iframe src="https://itch.io/embed/1547738?linkback=true&amp;border_width=2&amp;bg_color=111111&amp;fg_color=f6f6f6&amp;link_color=c1feaa&amp;border_color=c1feaa" width="100%" height="auto" frameborder="0"><a href="https://jacky420.itch.io/zentune">Zentune by Jacky</a></iframe>
+[![zentune_itchio_link_widget](release_and_resources/github/itchio_widget.png)](https://jacky420.itch.io/zentune)
 
 <br>
 
